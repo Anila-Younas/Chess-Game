@@ -13,7 +13,7 @@ A **console-based Chess game** implemented in C++ with complete gameplay mechani
 ### 📥 Download the Project
 Clone the repository using Git:
 
-git clone "https://github.com/Anila-Younas/Chess-Game"
+git clone https://github.com/Anila-Younas/Chess-Game
 Or download the ZIP and extract it manually.
 
 ### 💻 Open in VS Code
